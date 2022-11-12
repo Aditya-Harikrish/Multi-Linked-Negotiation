@@ -1,6 +1,7 @@
 .vscode
 temp.py
 temp.txt
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
